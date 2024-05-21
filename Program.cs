@@ -1,4 +1,5 @@
 ﻿using EspacioCalculadora;
+using EspacioEmpleados;
 //Nunca debe tener nada por arriba
 
 
@@ -85,3 +86,15 @@ static int numeroParaDividir()
 
     return (nume);
 }
+
+
+
+//Ejercicio 2
+Empleados Empleado = new Empleados();
+
+Empleado.Apellido = "probando";
+Empleado.Nombre = "pruebas";
+Empleado.EstadoCivil1 = 'c'; //casado
+Empleado.SueldoBasico1 = 300.000;
+Empleado.FechaNac = DateTime.Parse("2021-05-23");
+Empleado.
