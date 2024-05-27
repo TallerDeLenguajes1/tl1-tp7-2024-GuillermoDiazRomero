@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alumno\\Desktop\\TP7\\tl1-tp7-2024-GuillermoDiazRomero\\tl1-tp7-2024-GuillermoDiazRomero.csproj": {}
+    "C:\\Users\\guill\\Desktop\\Ingenieria Informatica\\Modulo 5\\Taller de Lenguajes I\\tp7\\tl1-tp7-2024-GuillermoDiazRomero\\tl1-tp7-2024-GuillermoDiazRomero.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alumno\\Desktop\\TP7\\tl1-tp7-2024-GuillermoDiazRomero\\tl1-tp7-2024-GuillermoDiazRomero.csproj": {
+    "C:\\Users\\guill\\Desktop\\Ingenieria Informatica\\Modulo 5\\Taller de Lenguajes I\\tp7\\tl1-tp7-2024-GuillermoDiazRomero\\tl1-tp7-2024-GuillermoDiazRomero.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alumno\\Desktop\\TP7\\tl1-tp7-2024-GuillermoDiazRomero\\tl1-tp7-2024-GuillermoDiazRomero.csproj",
+        "projectUniqueName": "C:\\Users\\guill\\Desktop\\Ingenieria Informatica\\Modulo 5\\Taller de Lenguajes I\\tp7\\tl1-tp7-2024-GuillermoDiazRomero\\tl1-tp7-2024-GuillermoDiazRomero.csproj",
         "projectName": "tl1-tp7-2024-GuillermoDiazRomero",
-        "projectPath": "C:\\Users\\Alumno\\Desktop\\TP7\\tl1-tp7-2024-GuillermoDiazRomero\\tl1-tp7-2024-GuillermoDiazRomero.csproj",
-        "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alumno\\Desktop\\TP7\\tl1-tp7-2024-GuillermoDiazRomero\\obj\\",
+        "projectPath": "C:\\Users\\guill\\Desktop\\Ingenieria Informatica\\Modulo 5\\Taller de Lenguajes I\\tp7\\tl1-tp7-2024-GuillermoDiazRomero\\tl1-tp7-2024-GuillermoDiazRomero.csproj",
+        "packagesPath": "C:\\Users\\guill\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\guill\\Desktop\\Ingenieria Informatica\\Modulo 5\\Taller de Lenguajes I\\tp7\\tl1-tp7-2024-GuillermoDiazRomero\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\guill\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
